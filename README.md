@@ -1,4 +1,4 @@
-# Experiments with modified discrete cosine transform in Toit
+# Experiments with modified FFT and discrete cosine transform in Toit
 
 The blog explores an MDCT implementation in toit and how it 
 progressively is made to run faster. All timings is calculated on a M1MAX Mac Pro
